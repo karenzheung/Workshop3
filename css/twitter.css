@@ -1,0 +1,32 @@
+body {
+  padding-top: 80px;
+}
+
+.twitter-search {
+  border-radius: 50px;
+  border-left:none;
+  border-right: none;
+}
+
+.navbar form button {
+  border-radius: 50px;
+  border-left: none;
+}
+
+.tweet-status .list-inline > li > a{
+  color:lightgrey;
+  padding-right: 40px;
+}
+
+.twitter-reply {
+  background-color: #f8f8f8;
+}
+
+.twitter-reply .col-md-12 .media {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.panel-body {
+  padding-bottom: 0px;
+}
